@@ -1,0 +1,21 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M26.9829 12.3737V13.2669L27 15.0086V31.4286C27 33.3211 25.4657 34.8571 23.5714 34.8571H6.42857C4.53429 34.8571 3 33.3211 3 31.4286V6.42857C3 4.53429 4.53429 3 6.42857 3H15.4714C16.2754 3 17.052 3.28114 17.6691 3.79543L26.3674 11.0571C26.7566 11.3829 26.9829 11.8646 26.9829 12.3737ZM23 13L15 6V12C15 12.5523 15.4477 13 16 13H23Z" fill="#46566B"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="3" y="3" width="24" height="32">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M26.9829 12.3737V13.2669L27 15.0086L27 31.5712C27 33.4638 25.4657 34.9998 23.5714 34.9998H6.42857C4.53429 34.9998 3 33.4638 3 31.5712L3.00002 6.42857C3.00002 4.53429 4.5343 3 6.42859 3H15.4714C16.2754 3 17.052 3.28114 17.6692 3.79543L26.3674 11.0571C26.7566 11.3829 26.9829 11.8646 26.9829 12.3737ZM23 13L15 6V12C15 12.5523 15.4477 13 16 13H23Z" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M-5 65.6667H61.6667V-1H-5V65.6667Z" fill="#0092F6"/>
+<g style="mix-blend-mode:multiply">
+<rect x="6" y="18" width="8" height="2" rx="1" fill="#3552EB"/>
+</g>
+<g style="mix-blend-mode:multiply">
+<rect x="6" y="22" width="18" height="2" rx="1" fill="#3552EB"/>
+</g>
+<g style="mix-blend-mode:multiply">
+<rect x="6" y="26" width="14" height="2" rx="1" fill="#3552EB"/>
+</g>
+</g>
+<g style="mix-blend-mode:multiply">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M29.95 19H30.05C32.785 19 35 21.3627 35 24.28V26.75V27V27.0138C36.1245 27.1382 37 28.0925 37 29.25V35C37 36.1046 36.1046 37 35 37H25C23.8954 37 23 36.1046 23 35V29.25C23 28.0925 23.8755 27.1382 25 27.0138V27V26.75V24.28C25 21.3627 27.215 19 29.95 19ZM27.5 27H32.5V26.75V24.3067C32.5 22.848 31.3925 21.6667 30.025 21.6667H29.975C28.6075 21.6667 27.5 22.848 27.5 24.3067V26.75V27Z" fill="#3552EB"/>
+</g>
+</svg>

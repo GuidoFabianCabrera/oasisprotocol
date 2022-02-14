@@ -1,0 +1,23 @@
+<svg width="312" height="386" viewBox="0 0 312 386" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path opacity="0.5" d="M155 264.506L305 324.962L155 385.418L5 324.962L155 264.506Z" fill="black"/>
+<path d="M156.071 6L306.071 66L156.071 126L6.0708 66L156.071 6Z" stroke="#B3DEFC" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M156.07 316V126.17L306.07 66L305.668 255.83L156.07 316Z" stroke="#B3DEFC" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7 255.568C65.6367 231.998 98.9921 218.591 156.686 195.4" stroke="#B3DEFC" stroke-dasharray="5 7"/>
+<path d="M305.6 255.568C246.963 231.998 213.608 218.591 155.914 195.4" stroke="#B3DEFC" stroke-dasharray="5 7"/>
+<path d="M156.07 316V126.17L6.07053 66L6.47266 255.83L156.07 316Z" stroke="#B3DEFC" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M96.7253 97.9356C96.296 98.0583 96 98.4507 96 98.8972V166.714C96 166.714 96 166.714 96 166.714C96.0001 201.955 122.175 231.035 156 235.285C189.825 231.035 216 201.955 216 166.714C216 166.714 216 166.714 216 166.714V98.8972C216 98.4507 215.704 98.0583 215.275 97.9356L156 81L96.7253 97.9356Z" fill="#0092F6"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M113.704 111.258C113.285 111.387 113 111.775 113 112.213V164.809H113C113 164.81 113 164.81 113 164.811C113 192.22 131.759 214.838 156 218.144L156 218.144C180.242 214.838 199 192.22 199 164.811C199 164.773 199 164.735 199 164.697V112.213C199 111.775 198.715 111.387 198.296 111.258L156 98.1426L113.704 111.258Z" fill="#0075C5"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M164 164.701C169.356 161.816 173 156.123 173 149.572C173 140.104 165.389 132.429 156 132.429C146.611 132.429 139 140.104 139 149.572C139 156.123 142.644 161.816 148 164.701V177C148 181.418 151.582 185 156 185C160.418 185 164 181.418 164 177V164.701Z" fill="black"/>
+<path opacity="0.4" d="M156 316V126.17L5.99997 66L6.4021 255.83L156 316Z" fill="#57ABF8"/>
+<path d="M156 235V126" stroke="#B3DEFC"/>
+<path d="M156 126L86 98" stroke="#B3DEFC"/>
+<path d="M156 126L226 98" stroke="#B3DEFC"/>
+<path d="M156 126V6" stroke="#B3DEFC" stroke-dasharray="5 7"/>
+<circle cx="6" cy="66" r="6" fill="#B3DEFC"/>
+<circle cx="306" cy="66" r="6" fill="#B3DEFC"/>
+<circle cx="156" cy="126" r="6" fill="#B3DEFC"/>
+<circle cx="156" cy="316" r="6" fill="#B3DEFC"/>
+<circle cx="156" cy="6" r="6" fill="#B3DEFC"/>
+<circle cx="6" cy="256" r="6" fill="#B3DEFC"/>
+<circle cx="306" cy="256" r="6" fill="#B3DEFC"/>
+</svg>

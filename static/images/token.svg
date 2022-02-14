@@ -1,0 +1,21 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g style="mix-blend-mode:multiply">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M14 21C18.4183 21 22 19.2091 22 17V20C22 22.2091 18.4183 24 14 24C9.58172 24 6 22.2091 6 20V17C6 19.2091 9.58172 21 14 21Z" fill="#3552EB"/>
+</g>
+<g style="mix-blend-mode:multiply">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M14 26C18.4183 26 22 24.2091 22 22V25C22 27.2091 18.4183 29 14 29C9.58172 29 6 27.2091 6 25V22C6 24.2091 9.58172 26 14 26Z" fill="#3552EB"/>
+</g>
+<g style="mix-blend-mode:multiply">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M14 31C18.4183 31 22 29.2091 22 27V30C22 32.2091 18.4183 34 14 34C9.58172 34 6 32.2091 6 30V27C6 29.2091 9.58172 31 14 31Z" fill="#3552EB"/>
+</g>
+<g style="mix-blend-mode:multiply">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M14 16C18.4183 16 22 14.2091 22 12V15C22 17.2091 18.4183 19 14 19C9.58172 19 6 17.2091 6 15V12C6 14.2091 9.58172 16 14 16Z" fill="#3552EB"/>
+</g>
+<g style="mix-blend-mode:multiply">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M14 14C18.4183 14 22 12.2091 22 10V7H19.2916C17.8814 6.37764 16.0289 6 14 6C11.9711 6 10.1186 6.37764 8.70835 7H6V10C6 12.2091 9.58172 14 14 14Z" fill="#3552EB"/>
+<ellipse cx="14" cy="7" rx="8" ry="4" fill="#0092F6"/>
+</g>
+<g style="mix-blend-mode:multiply">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M33.9871 20.8874V21.5573L34 22.8635V34.4285C34 35.848 32.8493 37 31.4286 37H18.5714C17.1507 37 16 35.848 16 34.4285V16.4285C16 15.0078 17.1507 13.8571 18.5714 13.8571H25.3536C25.9566 13.8571 26.539 14.068 27.0019 14.4537L33.5256 19.9C33.8174 20.1443 33.9871 20.5055 33.9871 20.8874ZM31.421 21.365L25.0245 15.9868L24.9984 20.359C24.9951 20.9136 25.4438 21.365 25.9984 21.365H31.421Z" fill="#0092F6"/>
+</g>
+</svg>
