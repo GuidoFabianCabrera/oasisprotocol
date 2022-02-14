@@ -243,13 +243,13 @@
           <div class="footer__list_item">Partners</div>
         </div>
         <div class="footer__social">
-          <img class="footer__social_icon" src="/images/social_telegram.svg" />
-          <img class="footer__social_icon" src="/images/social_slack.svg" />
-          <img class="footer__social_icon" src="/images/social_twitter.svg" />
-          <img class="footer__social_icon" src="/images/social_github.svg" />
-          <img class="footer__social_icon" src="/images/social_youtube.svg" />
-          <img class="footer__social_icon" src="/images/social_oasis.svg" />
-          <img class="footer__social_icon" src="/images/social_discord.png" />
+          <img class="footer__social_icon" src="images/social_telegram.svg" />
+          <img class="footer__social_icon" src="images/social_slack.svg" />
+          <img class="footer__social_icon" src="images/social_twitter.svg" />
+          <img class="footer__social_icon" src="images/social_github.svg" />
+          <img class="footer__social_icon" src="images/social_youtube.svg" />
+          <img class="footer__social_icon" src="images/social_oasis.svg" />
+          <img class="footer__social_icon" src="images/social_discord.png" />
         </div>
         <div class="footer__legal">
           <div class="footer__legal_item">Terms of Use</div>
