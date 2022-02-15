@@ -3,7 +3,8 @@ import colors from "vuetify/es5/util/colors";
 const description =
   "The Oasis Network is a privacy-enabled blockchain platform for open finance and a responsible data economy.";
 const title = "The Oasis Protocol Foundation";
-const url = "guidofabiancabrera.github.io/oasisprotocol/images/meta-image.png";
+const url =
+  "https://guidofabiancabrera.github.io/oasisprotocol/images/meta-image.png";
 
 export default {
   // Target: https://go.nuxtjs.dev/config-target
