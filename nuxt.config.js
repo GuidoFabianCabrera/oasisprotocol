@@ -4,7 +4,7 @@ const description =
   "The Oasis Network is a privacy-enabled blockchain platform for open finance and a responsible data economy.";
 const title = "The Oasis Protocol Foundation";
 const url =
-  "https://guidofabiancabrera.github.io/oasisprotocol/images/meta-image2.png";
+  "https://guidofabiancabrera.github.io/oasisprotocol/images/meta-image.jpg";
 
 export default {
   // Target: https://go.nuxtjs.dev/config-target
