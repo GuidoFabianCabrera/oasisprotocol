@@ -1,0 +1,14 @@
+<svg width="356" height="409" viewBox="0 0 356 409" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path opacity="0.5" d="M179 288L329 348.456L179 408.913L29 348.456L179 288Z" fill="black"/>
+<path d="M180 189.494L329.93 249.988L180 310.483L30.0707 249.988L180 189.494Z" fill="#92D2FF" stroke="#B3DEFC" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M180 341.336V310.483L329.929 249.989L329.527 280.842L180 341.336Z" fill="#005894" stroke="#B3DEFC" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M180 341.336V310.483L30.0706 249.989L30.4725 280.842L180 341.336Z" fill="#57ABF8" stroke="#B3DEFC" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M179 1L328.929 61.4943L179 121.989L29.0703 61.4943L179 1Z" fill="#92D2FF" stroke="#B3DEFC" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M179 152.842V121.989L328.929 61.4946L328.527 92.3474L179 152.842Z" fill="#005894" stroke="#B3DEFC" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M179 152.842V121.989L29.0703 61.4946L29.4723 92.3474L179 152.842Z" fill="#57ABF8" stroke="#B3DEFC" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="179" cy="56" rx="7" ry="5" fill="#FF4212"/>
+<ellipse cx="179" cy="245" rx="7" ry="5" fill="#FFB4A0" stroke="#FF4212"/>
+<path d="M179 153L179 240" stroke="#FF4212"/>
+<path d="M179 56L179 153" stroke="#FF4212" stroke-dasharray="5 4"/>
+<path d="M2 169.5H356" stroke="#B3DEFC" stroke-width="3" stroke-dasharray="9 7"/>
+</svg>
