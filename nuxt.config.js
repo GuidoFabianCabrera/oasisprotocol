@@ -54,7 +54,11 @@ export default {
       { hid: "og-image", property: "og:image", content: `${url}` }
     ],
     link: [
-      { rel: "icon", type: "image/x-icon", href: "/favicon2.ico" },
+      {
+        rel: "icon",
+        type: "image/x-icon",
+        href: "https://guidofabiancabrera.github.io/oasisprotocol/favicon.ico"
+      },
       {
         href:
           "https://fonts.googleapis.com/css2?family=Changa+One:ital@0;1&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap",
